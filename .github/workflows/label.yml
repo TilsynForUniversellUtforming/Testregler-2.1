@@ -1,4 +1,4 @@
-name: Label PR on Unique Approvals
+name: Label bot
 
 on:
   pull_request_review:
