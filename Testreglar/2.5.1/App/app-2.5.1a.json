@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>All funksjonalitet som krever at brukeren benytter flerpunktgest eller stibasert gest, skal kunne betjenes med en enkelt pekerbevegelse</p>\r\n<ul>\r\n<li>Med mindre flerpunktgest eller stibasert gest er avgjørende</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>All funksjonalitet som krever at brukeren benytter flerpunktgest eller stibasert gest, skal kunne betjenes med en enkelt pekerbevegelse</p><ul><li>Med mindre flerpunktgest eller stibasert gest er avgjørende</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

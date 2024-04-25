@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>Nettsida får ikkje \"Fatal Error\" ved validering, og inneheld ikkje syntaksfeil av følgande type:</p>\r\n<ul>\r\n<li>feil nøsting av element</li>\r\n<li>element som ikkje er avslutta korrekt</li>\r\n<li>element som har same attributt fleire gonger</li>\r\n<li>element som har ID-ar som ikkje er unike</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Nettsida får ikkje \"Fatal Error\" ved validering, og inneheld ikkje syntaksfeil av følgande type:</p><ul><li>feil nøsting av element</li><li>element som ikkje er avslutta korrekt</li><li>element som har same attributt fleire gonger</li><li>element som har ID-ar som ikkje er unike</li></ul>",
 	"side": "2.1",
 	"element": "Side",
 	"steg": [

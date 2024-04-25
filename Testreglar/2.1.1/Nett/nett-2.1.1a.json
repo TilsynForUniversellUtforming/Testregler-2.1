@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>All funksjonalitet på nettsiden kan nås og brukes med tastatur, uten at det er behov for tidsberegning av de enkelte tastetrykkene</p>\r\n<ul>\r\n<li>Funksjonalitet på nettstedet som ikke er formålstjenlig å bruke med tastatur er unntatt</li>\r\n<li><!--[endif]-->Dersom det er behov for noe bruk av noe annet enn standardmetoder for tastaturnavigasjon, får brukeren informasjon om hvilken metode som skal benyttes </li>\r\n</ul>",
+	"kravTilSamsvar": "<p>All funksjonalitet på nettsiden kan nås og brukes med tastatur, uten at det er behov for tidsberegning av de enkelte tastetrykkene</p><ul><li>Funksjonalitet på nettstedet som ikke er formålstjenlig å bruke med tastatur er unntatt</li><li><!--[endif]-->Dersom det er behov for noe bruk av noe annet enn standardmetoder for tastaturnavigasjon, får brukeren informasjon om hvilken metode som skal benyttes </li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

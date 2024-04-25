@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>For appsider som sletter brukerstyrte data i datalagringssystemer, gjelder minst ett av følgende alternativer:</p>\r\n<ul>\r\n<li>Før innsending har appsiden en mekanisme som lar brukeren bekrefte sletting, mekanismen er separat fra innsending og den er et obligatorisk skjemaelement eller</li>\r\n<li>Etter innsending får brukeren informasjon om hvordan en kan angre sletting, og sletting blir angret</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>For appsider som sletter brukerstyrte data i datalagringssystemer, gjelder minst ett av følgende alternativer:</p><ul><li>Før innsending har appsiden en mekanisme som lar brukeren bekrefte sletting, mekanismen er separat fra innsending og den er et obligatorisk skjemaelement eller</li><li>Etter innsending får brukeren informasjon om hvordan en kan angre sletting, og sletting blir angret</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

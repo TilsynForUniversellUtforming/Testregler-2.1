@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<ul>\r\n<li>Innhold og relasjoner i visuelle datatabeller er korrekt kodet med rolle tabell, samt tabelltittel og overskriftsceller, der dette finnes</li>\r\n<li>Tabeller brukt til layout skal kodes slik at de ignoreres av hjelpemiddelteknologi</li>\r\n</ul>",
+	"kravTilSamsvar": "<ul><li>Innhold og relasjoner i visuelle datatabeller er korrekt kodet med rolle tabell, samt tabelltittel og overskriftsceller, der dette finnes</li><li>Tabeller brukt til layout skal kodes slik at de ignoreres av hjelpemiddelteknologi</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

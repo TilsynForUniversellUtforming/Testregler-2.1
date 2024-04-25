@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<ul>\r\n<li>Sidetittelen er korrekt kodet i det oppmerkingsspråket som er brukt og</li>\r\n<li>Sidetittelen gir en relevant beskrivelse av sidens tema eller formål</li>\r\n</ul>",
+	"kravTilSamsvar": "<ul><li>Sidetittelen er korrekt kodet i det oppmerkingsspråket som er brukt og</li><li>Sidetittelen gir en relevant beskrivelse av sidens tema eller formål</li></ul>",
 	"side": "2.1",
 	"element": "Side",
 	"steg": [

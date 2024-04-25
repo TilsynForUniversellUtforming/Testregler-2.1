@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>For funksjonalitet som kan brukes med å bevege enheten eller gjennom brukerbevegelser, gjelder følgende:</p>\r\n<ul>\r\n<li>Funksjonaliteten kan også brukes med vanlige brukergrensesnittkomponenter og</li>\r\n<li>Brukeren kan slå av bevegelsesaktivering av innhold via innstillinger gitt av innholdsprodusent eller i brukeragenter, på systemnivå</li>\r\n<li>Kravet gjelder med mindre\r\n<ul>\r\n<li>Støttet grensesnitt: Bevegelsen er brukt for å betjene funksjonalitet gjennom et grensesnitt som er tilgjengelighetsstøttende</li>\r\n<li>Avgjørende: Bevegelsen er avgjørende for funksjonaliteten, og det vil gjøre aktiviteten ugyldig.</li>\r\n</ul>\r\n</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>For funksjonalitet som kan brukes med å bevege enheten eller gjennom brukerbevegelser, gjelder følgende:</p><ul><li>Funksjonaliteten kan også brukes med vanlige brukergrensesnittkomponenter og</li><li>Brukeren kan slå av bevegelsesaktivering av innhold via innstillinger gitt av innholdsprodusent eller i brukeragenter, på systemnivå</li><li>Kravet gjelder med mindre<ul><li>Støttet grensesnitt: Bevegelsen er brukt for å betjene funksjonalitet gjennom et grensesnitt som er tilgjengelighetsstøttende</li><li>Avgjørende: Bevegelsen er avgjørende for funksjonaliteten, og det vil gjøre aktiviteten ugyldig.</li></ul></li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

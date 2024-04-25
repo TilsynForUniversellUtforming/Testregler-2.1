@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>Kravet kan oppfyllast på fleire måtar. </p>\r\n<ul>\r\n<li>Bilde av tekst er ikkje i bruk med mindre:\r\n<ul>\r\n<li>bilde av tekst kan tilpassast brukaren sine krav eller</li>\r\n<li>bilde av tekst er nødvendig for å presentere informasjon</li>\r\n</ul>\r\n</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Kravet kan oppfyllast på fleire måtar. </p><ul><li>Bilde av tekst er ikkje i bruk med mindre:<ul><li>bilde av tekst kan tilpassast brukaren sine krav eller</li><li>bilde av tekst er nødvendig for å presentere informasjon</li></ul></li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>Når innhold kommer til syne og så forsvinner ved at man holder musepekeren over innholdet og så flytter musepekeren vekk, gjelder alle de følgende punktene:</p>\r\n<ul>\r\n<li>Det er en mekanisme for å avvise eller lukke det ekstra innholdet, uten å flytte musepekeren og\r\n<ul>\r\n<li>Med mindre det ekstra innholdet formidler en inndatafeil eller ikke forstyrrer eller erstatter annet innhold</li>\r\n</ul>\r\n</li>\r\n<li>Musepekeren kan flyttes over det ekstra innholdet uten at det ekstra innholdet forsvinner og</li>\r\n<li>Det ekstra innholdet forblir synlig helt til\r\n<ul>\r\n<li>brukeren flytter musepekeren eller</li>\r\n<li>brukeren avviser innholdet eller</li>\r\n<li>informasjonen ikke lenger er gyldig</li>\r\n</ul>\r\n</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Når innhold kommer til syne og så forsvinner ved at man holder musepekeren over innholdet og så flytter musepekeren vekk, gjelder alle de følgende punktene:</p><ul><li>Det er en mekanisme for å avvise eller lukke det ekstra innholdet, uten å flytte musepekeren og<ul><li>Med mindre det ekstra innholdet formidler en inndatafeil eller ikke forstyrrer eller erstatter annet innhold</li></ul></li><li>Musepekeren kan flyttes over det ekstra innholdet uten at det ekstra innholdet forsvinner og</li><li>Det ekstra innholdet forblir synlig helt til<ul><li>brukeren flytter musepekeren eller</li><li>brukeren avviser innholdet eller</li><li>informasjonen ikke lenger er gyldig</li></ul></li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

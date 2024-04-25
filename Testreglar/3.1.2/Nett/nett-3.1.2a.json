@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<ul>\r\n<li>Deler av innhold som er på et annet språk enn hovedspråket på nettsiden har en gyldig språkkode i koden og</li>\r\n<li>Valgt språkkode samsvarer med språket som den aktuelle delen av innholdet er skrevet på.</li>\r\n</ul>",
+	"kravTilSamsvar": "<ul><li>Deler av innhold som er på et annet språk enn hovedspråket på nettsiden har en gyldig språkkode i koden og</li><li>Valgt språkkode samsvarer med språket som den aktuelle delen av innholdet er skrevet på.</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>Det er mogeleg å vise nettsida i både ståande og liggande visning utan tap av innhald med unntak av:</p>\r\n<ul>\r\n<li>innhald der ei bestemt visingsretning er naudsynt for at informasjon og funksjonalitet skal fungere</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Det er mogeleg å vise nettsida i både ståande og liggande visning utan tap av innhald med unntak av:</p><ul><li>innhald der ei bestemt visingsretning er naudsynt for at informasjon og funksjonalitet skal fungere</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

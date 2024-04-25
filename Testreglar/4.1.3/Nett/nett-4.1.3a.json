@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>For statusbeskjeder, som implementeres ved hjelp av oppmerkingsspråk, gjelder følgende</p>\r\n<ul>\r\n<li>Resultatet av en handling skal kodes med\r\n<ul>\r\n<li>role=\"status\" eller</li>\r\n<li>aria-live=\"polite\"</li>\r\n</ul>\r\n</li>\r\n<li>Ventetilstand skal kodes med\r\n<ul>\r\n<li>role=\"status\" eller</li>\r\n<li>aria-live=\"polite\"</li>\r\n</ul>\r\n</li>\r\n<li>Feil skal kodes med\r\n<ul>\r\n<li>role=\"alert\" eller</li>\r\n<li>aria-live=\"polite\" eller</li>\r\n<li>aria-live=\"assertive\"</li>\r\n</ul>\r\n</li>\r\n<li>Fremdriften i en prosess skal kodes med\r\n<ul>\r\n<li>role=\"progressbar\" eller</li>\r\n<li>elementet &lt;progress&gt; eller</li>\r\n<li>role=\"log\" eller</li>\r\n<li>role=\"status\" og aria-atomic=\"false\" eller</li>\r\n<li>aria-live=\"polite\" og aria-atomic=\"false\"</li>\r\n</ul>\r\n</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>For statusbeskjeder, som implementeres ved hjelp av oppmerkingsspråk, gjelder følgende</p><ul><li>Resultatet av en handling skal kodes med<ul><li>role=\"status\" eller</li><li>aria-live=\"polite\"</li></ul></li><li>Ventetilstand skal kodes med<ul><li>role=\"status\" eller</li><li>aria-live=\"polite\"</li></ul></li><li>Feil skal kodes med<ul><li>role=\"alert\" eller</li><li>aria-live=\"polite\" eller</li><li>aria-live=\"assertive\"</li></ul></li><li>Fremdriften i en prosess skal kodes med<ul><li>role=\"progressbar\" eller</li><li>elementet &lt;progress&gt; eller</li><li>role=\"log\" eller</li><li>role=\"status\" og aria-atomic=\"false\" eller</li><li>aria-live=\"polite\" og aria-atomic=\"false\"</li></ul></li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

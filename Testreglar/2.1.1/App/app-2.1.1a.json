@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>All funksjonalitet i appen kan nås og brukes med sveiping og dobbelttrykk, når skjermleser er aktivert</p>\r\n<ul>\r\n<li>Funksjonalitet i appen som ikke er formålstjenlig å bruke med sveiping og dobbelttrykk er unntatt</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>All funksjonalitet i appen kan nås og brukes med sveiping og dobbelttrykk, når skjermleser er aktivert</p><ul><li>Funksjonalitet i appen som ikke er formålstjenlig å bruke med sveiping og dobbelttrykk er unntatt</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

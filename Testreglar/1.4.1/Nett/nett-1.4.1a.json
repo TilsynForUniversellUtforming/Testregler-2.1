@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>Kravet kan oppfylles på flere måter.</p>\r\n<ul>\r\n<li>\r\n<p>Lenker i løpende tekst oppfyller et av alternativer under:</p>\r\n<ul>\r\n<li>\r\n<p>Lenker markerte med farge, skiller seg ut fra nærliggende ikke-lenket tekst med mer enn bare farge.</p>\r\n<ul>\r\n<li>\r\n<p>Eksempel på visuelle kjennetegn er endring i skrifttype, skriftgruppe, skriftstørrelse, understreking, uthevet skrift, ramme eller ikon.</p>\r\n</li>\r\n</ul>\r\n</li>\r\n<li>\r\n<p>Lenker markerte med bare farge har kontrast på minst 3:1, mot nærliggende ikke lenket tekst og får synlig markering i tillegg til farge ved mouseover og tastaturfokus</p>\r\n<ul>\r\n<li>\r\n<p>Endring av muspekeren og standard fokusmarkering er ikke tilstrekkelig markering</p>\r\n</li>\r\n</ul>\r\n</li>\r\n</ul>\r\n</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Kravet kan oppfylles på flere måter.</p><ul><li><p>Lenker i løpende tekst oppfyller et av alternativer under:</p><ul><li><p>Lenker markerte med farge, skiller seg ut fra nærliggende ikke-lenket tekst med mer enn bare farge.</p><ul><li><p>Eksempel på visuelle kjennetegn er endring i skrifttype, skriftgruppe, skriftstørrelse, understreking, uthevet skrift, ramme eller ikon.</p></li></ul></li><li><p>Lenker markerte med bare farge har kontrast på minst 3:1, mot nærliggende ikke lenket tekst og får synlig markering i tillegg til farge ved mouseover og tastaturfokus</p><ul><li><p>Endring av muspekeren og standard fokusmarkering er ikke tilstrekkelig markering</p></li></ul></li></ul></li>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

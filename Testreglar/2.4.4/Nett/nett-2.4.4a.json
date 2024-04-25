@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>Lenker som inneholder tekst oppfyller kravet dersom:</p>\r\n<ul>\r\n<li>Lenketeksten alene beskriver formålet med lenken eller</li>\r\n<li>Lenketeksten sammen med programmeringsmessig bestemt lenkekontekst beskriver formålet med lenken. For programmatisk bestemt lenkekontekst vurderes tekst som står i\r\n<ul>\r\n<li>samme avsnitt, liste eller celle i en tabell som lenken gjør eller tilsvarende eller</li>\r\n<li>en tabelloverskrift som er knyttet til tabellcellen som lenken står i eller tilsvarende</li>\r\n</ul>\r\n</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Lenker som inneholder tekst oppfyller kravet dersom:</p><ul><li>Lenketeksten alene beskriver formålet med lenken eller</li><li>Lenketeksten sammen med programmeringsmessig bestemt lenkekontekst beskriver formålet med lenken. For programmatisk bestemt lenkekontekst vurderes tekst som står i<ul><li>samme avsnitt, liste eller celle i en tabell som lenken gjør eller tilsvarende eller</li><li>en tabelloverskrift som er knyttet til tabellcellen som lenken står i eller tilsvarende</li></ul></li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

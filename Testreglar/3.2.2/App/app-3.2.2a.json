@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nn",
-	"kravTilSamsvar": "<ul>\r\n<li>Dersom endring av innstillinger i brukergrensesnittkomponenter fører til automatisk kontekstendring, informeres brukeren på forhånd og</li>\r\n<li>Informasjonen er plassert i tråd med ett av følgende alternativer:\r\n<ul>\r\n<li>På starten av siden med komponenten eller</li>\r\n<li>På samme steg i prosessen som inneholder komponenten eller</li>\r\n<li>Rett før den aktuelle komponenten i leserekkefølgen</li>\r\n</ul>\r\n</li>\r\n</ul>",
+	"kravTilSamsvar": "<ul><li>Dersom endring av innstillinger i brukergrensesnittkomponenter fører til automatisk kontekstendring, informeres brukeren på forhånd og</li><li>Informasjonen er plassert i tråd med ett av følgende alternativer:<ul><li>På starten av siden med komponenten eller</li><li>På samme steg i prosessen som inneholder komponenten eller</li><li>Rett før den aktuelle komponenten i leserekkefølgen</li></ul></li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>Dersom en hurtigtast er implementert i innholdet ved å bruke kun en bokstav (inklusive store og små bokstaver), tegnsetting, siffer eller symboltegn, gjelder minst ett av følgende punkter:</p>\r\n<ul>\r\n<li>Det er en mekanisme for å slå av hurtigtasten\r\n<ul>\r\n<li>Mekanismen ligger på samme nettside som innholdet som benytter hurtigtaster eller</li>\r\n</ul>\r\n</li>\r\n<li>Det er en mekanisme for å rekonfigurere (omadressere) hurtigtasten ved hjelp av en eller flere modifiseringstaster\r\n<ul>\r\n<li>Mekanismen ligger på samme nettside som innholdet som benytter hurtigtaster eller</li>\r\n</ul>\r\n</li>\r\n<li>Hurtigtasten for en brukergrensesnittkomponent er kun aktiv når komponenten kommer i fokus</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Dersom en hurtigtast er implementert i innholdet ved å bruke kun en bokstav (inklusive store og små bokstaver), tegnsetting, siffer eller symboltegn, gjelder minst ett av følgende punkter:</p><ul><li>Det er en mekanisme for å slå av hurtigtasten<ul><li>Mekanismen ligger på samme nettside som innholdet som benytter hurtigtaster eller</li></ul></li><li>Det er en mekanisme for å rekonfigurere (omadressere) hurtigtasten ved hjelp av en eller flere modifiseringstaster<ul><li>Mekanismen ligger på samme nettside som innholdet som benytter hurtigtaster eller</li></ul></li><li>Hurtigtasten for en brukergrensesnittkomponent er kun aktiv når komponenten kommer i fokus</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

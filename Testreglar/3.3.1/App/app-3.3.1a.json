@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>Dersom det blir oppdaget automatisk at obligatoriske skjemaelement ikke er fylt ut, er følgende punkter oppfylt:</p>\r\n<ul>\r\n<li>Skjemaelementet der feilen oppstod identifiseres og</li>\r\n<li>Brukeren får en presis tekstlig beskrivelse av feilen og</li>\r\n<li>Feilmeldingen er kodet som tekst </li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Dersom det blir oppdaget automatisk at obligatoriske skjemaelement ikke er fylt ut, er følgende punkter oppfylt:</p><ul><li>Skjemaelementet der feilen oppstod identifiseres og</li><li>Brukeren får en presis tekstlig beskrivelse av feilen og</li><li>Feilmeldingen er kodet som tekst </li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

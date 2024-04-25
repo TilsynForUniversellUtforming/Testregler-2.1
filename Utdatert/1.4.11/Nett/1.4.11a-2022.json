@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>Den visuelle presentasjonen av det følgjande har eit kontrastforhold på minst 3:1 mot farge(ar) som ligg ved sidan av:</p>\r\n<ul>\r\n<li>Visuell informasjon som naudsynt for å identifisere brukergrensesnittkomponentar og tilstandar, unntatt inaktive komponentar eller der utsjånaden på komponenten er bestemt av brukeragenten og ikkje endra av produsentar av webinnhald.</li>\r\n<li>Deler av grafikk som er naudsynt for å forstå innhaldet, unntatt tilfelle der ein bestemt presentasjon av grafikk er naudsynt for informasjonen som blir formidla.</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Den visuelle presentasjonen av det følgjande har eit kontrastforhold på minst 3:1 mot farge(ar) som ligg ved sidan av:</p><ul><li>Visuell informasjon som naudsynt for å identifisere brukergrensesnittkomponentar og tilstandar, unntatt inaktive komponentar eller der utsjånaden på komponenten er bestemt av brukeragenten og ikkje endra av produsentar av webinnhald.</li><li>Deler av grafikk som er naudsynt for å forstå innhaldet, unntatt tilfelle der ein bestemt presentasjon av grafikk er naudsynt for informasjonen som blir formidla.</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

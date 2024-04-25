@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>For funksjonalitet som kan betjenes med en enkel pekerbevegelse skal minst én av følgende være oppfylt:</p>\r\n<ul>\r\n<li>Trykkhandlingen (down-event) fra brukeren utløser ikke funksjonalitet eller</li>\r\n<li>Funksjonen utføres på slipphandlingen (up-event), og det finnes en mekanisme\r\n<ul>\r\n<li>for å avbryte funksjonen før den utføres, eller</li>\r\n<li>for å angre funksjonen etter at den er utført eller </li>\r\n</ul>\r\n</li>\r\n<li>Slipphandlingen (up-event) opphever resultatet av den foregående trykkhandlingen (down-event) eller</li>\r\n<li>Det er avgjørende å utføre funksjonen på trykkhandlingen (down-event)</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>For funksjonalitet som kan betjenes med en enkel pekerbevegelse skal minst én av følgende være oppfylt:</p><ul><li>Trykkhandlingen (down-event) fra brukeren utløser ikke funksjonalitet eller</li><li>Funksjonen utføres på slipphandlingen (up-event), og det finnes en mekanisme<ul><li>for å avbryte funksjonen før den utføres, eller</li><li>for å angre funksjonen etter at den er utført eller </li></ul></li><li>Slipphandlingen (up-event) opphever resultatet av den foregående trykkhandlingen (down-event) eller</li><li>Det er avgjørende å utføre funksjonen på trykkhandlingen (down-event)</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

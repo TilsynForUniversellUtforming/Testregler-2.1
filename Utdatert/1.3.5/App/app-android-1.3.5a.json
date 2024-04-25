@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "",
-	"kravTilSamsvar": "<p>Formålet med hvert skjemaelement som samler inn informasjon om brukeren, kan bestemmes programmatisk når:</p>\r\n<ul>\r\n<li>skjemaelementet tjener et formål som er en del av <a href=\"https://developer.android.com/reference/androidx/autofill/HintConstants\" target=\"_blank\" rel=\"noopener\">Inndataformål for brukergrensesnittkomponenter (Android)</a> og</li>\r\n<li>innholdet er implementert ved hjelp av teknologier med støtte til identifikasjon av det forventede meningsinnholdet til inndata i skjema.</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Formålet med hvert skjemaelement som samler inn informasjon om brukeren, kan bestemmes programmatisk når:</p><ul><li>skjemaelementet tjener et formål som er en del av <a href=\"https://developer.android.com/reference/androidx/autofill/HintConstants\" target=\"_blank\" rel=\"noopener\">Inndataformål for brukergrensesnittkomponenter (Android)</a> og</li><li>innholdet er implementert ved hjelp av teknologier med støtte til identifikasjon av det forventede meningsinnholdet til inndata i skjema.</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

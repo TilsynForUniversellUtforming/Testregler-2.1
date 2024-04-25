@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>Navn og rolle:</p>\r\n<ul>\r\n<li>knapper har et tilgjengelig navn, som beskriver formålet med den aktuelle knappen og</li>\r\n<li>knapper har riktig rolle, som identifiserer funksjonen til den aktuelle knappen </li>\r\n</ul>\r\n<p>Tilstander, egenskaper og verdier:</p>\r\n<ul>\r\n<li>når tilstander, egenskaper og verdier ved knappen kan angis av brukeren, skal denne informasjonen også angis programmatisk og</li>\r\n<li>varsel om endringer i den aktuelle knappen er tilgjengelig for brukeragenter </li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Navn og rolle:</p><ul><li>knapper har et tilgjengelig navn, som beskriver formålet med den aktuelle knappen og</li><li>knapper har riktig rolle, som identifiserer funksjonen til den aktuelle knappen </li></ul><p>Tilstander, egenskaper og verdier:</p><ul><li>når tilstander, egenskaper og verdier ved knappen kan angis av brukeren, skal denne informasjonen også angis programmatisk og</li><li>varsel om endringer i den aktuelle knappen er tilgjengelig for brukeragenter </li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

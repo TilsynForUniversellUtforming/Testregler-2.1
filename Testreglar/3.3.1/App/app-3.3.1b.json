@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>For skjemaelementer der inndatafeil blir oppdaget automatisk, er følgende punkter oppfylt:</p>\r\n<ul>\r\n<li>Skjemaelementet der feilen oppstod identifiseres og</li>\r\n<li>Brukeren får en presis tekstlig beskrivelse av feilen</li>\r\n<li>Feilmeldingen er kodet som tekst og</li>\r\n<li>Informasjonen blir liggende i skjemaet, med mindre informasjonen er knyttet til personvern eller sikkerhet</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>For skjemaelementer der inndatafeil blir oppdaget automatisk, er følgende punkter oppfylt:</p><ul><li>Skjemaelementet der feilen oppstod identifiseres og</li><li>Brukeren får en presis tekstlig beskrivelse av feilen</li><li>Feilmeldingen er kodet som tekst og</li><li>Informasjonen blir liggende i skjemaet, med mindre informasjonen er knyttet til personvern eller sikkerhet</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>For desse typane av interaktive element gjeld følgande:</p>\r\n<ul>\r\n<li>skjemaelement skal ha ledetekst som identifiserer skjemaelementet</li>\r\n<li>knappar skal ha ledetekst som identifiserer funksjonen til knappen</li>\r\n<li>lenka bilder skal ha alternativ tekst som beskriv lenkemålet</li>\r\n</ul>\r\n<p> </p>",
+	"kravTilSamsvar": "<p>For desse typane av interaktive element gjeld følgande:</p><ul><li>skjemaelement skal ha ledetekst som identifiserer skjemaelementet</li><li>knappar skal ha ledetekst som identifiserer funksjonen til knappen</li><li>lenka bilder skal ha alternativ tekst som beskriv lenkemålet</li></ul><p> </p>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

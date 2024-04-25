@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>For nettsider med tekst gjelder følgende:</p>\r\n<ul>\r\n<li>Tekst har kontrast på minst 4,5:1 mot bakgrunnen</li>\r\n<li>Stor tekst har kontrast på minst 3,0:1 mot bakgrunnen</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>For nettsider med tekst gjelder følgende:</p><ul><li>Tekst har kontrast på minst 4,5:1 mot bakgrunnen</li><li>Stor tekst har kontrast på minst 3,0:1 mot bakgrunnen</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

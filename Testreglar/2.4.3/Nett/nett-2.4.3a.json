@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>For innhold som får fokus ved tastaturnavigasjon og må navigeres i en bestemt rekkefølge, er ett av følgende alternativ oppfylt:</p>\r\n<ul>\r\n<li>tastaturrekkefølge og visuell rekkefølge er lik eller</li>\r\n<li>tastaturrekkefølge og visuell rekkefølge er ulik, men det er likevel mulig å forstå og bruke innholdet</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>For innhold som får fokus ved tastaturnavigasjon og må navigeres i en bestemt rekkefølge, er ett av følgende alternativ oppfylt:</p><ul><li>tastaturrekkefølge og visuell rekkefølge er lik eller</li><li>tastaturrekkefølge og visuell rekkefølge er ulik, men det er likevel mulig å forstå og bruke innholdet</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

@@ -5,7 +5,7 @@
 	"versjon": "1.1",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>Følgande innhald i tabellar er koda semantisk rett:</p>\r\n<ul>\r\n<li>Tabelltittel.</li>\r\n<li>Overskriftsceller.</li>\r\n<li>Tabellar med overskrift i berre ei rad eller kolonne.</li>\r\n<li>Overskriftsceller i tabellar med overskrifter både på kolonne og rad.</li>\r\n<li>Overskriftsceller i tabellar med overskrifter på fleire rader og/eller kolonnar inne i tabellen.</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Følgande innhald i tabellar er koda semantisk rett:</p><ul><li>Tabelltittel.</li><li>Overskriftsceller.</li><li>Tabellar med overskrift i berre ei rad eller kolonne.</li><li>Overskriftsceller i tabellar med overskrifter både på kolonne og rad.</li><li>Overskriftsceller i tabellar med overskrifter på fleire rader og/eller kolonnar inne i tabellen.</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

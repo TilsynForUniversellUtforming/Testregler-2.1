@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>For brukergrensesnittkomponenter med ledetekster som inneholder tekst eller bilder av tekst, som støtter tilgjengelig navn, gjelder en av følgende:</p>\r\n<ul>\r\n<li>Synlig (visuell) ledetekst og tilgjengelig navn (accessible name) er identiske eller</li>\r\n<li>Tilgjengelig navn (accessible name) inneholder samme tekst, i samme rekkefølge som synlig (visuell) ledetekst </li>\r\n</ul>",
+	"kravTilSamsvar": "<p>For brukergrensesnittkomponenter med ledetekster som inneholder tekst eller bilder av tekst, som støtter tilgjengelig navn, gjelder en av følgende:</p><ul><li>Synlig (visuell) ledetekst og tilgjengelig navn (accessible name) er identiske eller</li><li>Tilgjengelig navn (accessible name) inneholder samme tekst, i samme rekkefølge som synlig (visuell) ledetekst </li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

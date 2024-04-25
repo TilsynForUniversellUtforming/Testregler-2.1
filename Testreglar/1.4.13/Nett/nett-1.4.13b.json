@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>Når innhold kommer til syne og så forsvinner ved at man flytter tastaturfokus til innholdet og deretter flytter fokus vekk, gjelder alle de følgende punktene:</p>\r\n<ul>\r\n<li>Det er en mekanisme for å avvise eller lukke det ekstra innholdet, uten å flytte tastaturfokuset og\r\n<ul>\r\n<li>Med mindre det ekstra innholdet formidler en inndatafeil eller ikke forstyrrer eller erstatter annet innhold</li>\r\n</ul>\r\n</li>\r\n<li>Det ekstra innholdet forblir synlig helt til\r\n<ul>\r\n<li>brukeren flytter fokus eller</li>\r\n<li>brukeren avviser innholdet eller</li>\r\n<li>informasjonen ikke lenger er gyldig</li>\r\n</ul>\r\n</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Når innhold kommer til syne og så forsvinner ved at man flytter tastaturfokus til innholdet og deretter flytter fokus vekk, gjelder alle de følgende punktene:</p><ul><li>Det er en mekanisme for å avvise eller lukke det ekstra innholdet, uten å flytte tastaturfokuset og<ul><li>Med mindre det ekstra innholdet formidler en inndatafeil eller ikke forstyrrer eller erstatter annet innhold</li></ul></li><li>Det ekstra innholdet forblir synlig helt til<ul><li>brukeren flytter fokus eller</li><li>brukeren avviser innholdet eller</li><li>informasjonen ikke lenger er gyldig</li></ul></li>>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

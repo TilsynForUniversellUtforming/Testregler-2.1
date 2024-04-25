@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<ul>\r\n<li>All tekst kan forstørres opp til minst 200 % visning uten at innhold eller funksjonalitet går tapt</li>\r\n<li>Dersom forstørring tilbys via en mekanisme på den aktuelle nettsiden, skal den være lett å finne</li>\r\n</ul>",
+	"kravTilSamsvar": "<ul><li>All tekst kan forstørres opp til minst 200 % visning uten at innhold eller funksjonalitet går tapt</li><li>Dersom forstørring tilbys via en mekanisme på den aktuelle nettsiden, skal den være lett å finne</li></ul>",
 	"side": "2.1",
 	"element": "Side",
 	"steg": [

@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>Alle elementer som det er mulig å navigere til med tastaturet, får synlig fokusmarkering og markeringen er ikke tidsbegrenset</p>\r\n<ul>\r\n<li>Dersom det kun er mulig å navigere til ett enkelt element på nettsiden med tastaturet, er kravet oppfylt.</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Alle elementer som det er mulig å navigere til med tastaturet, får synlig fokusmarkering og markeringen er ikke tidsbegrenset</p><ul><li>Dersom det kun er mulig å navigere til ett enkelt element på nettsiden med tastaturet, er kravet oppfylt.</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

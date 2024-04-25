@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<ul>\r\n<li>Skjemainstruksjon som viser til sensoriske egenskaper (form, størrelse, visuell plassering, orientering eller lyd), har også annen informasjon, som lar brukeren forstå og betjene komponenten eller</li>\r\n<li>I skjemainstruksjon brukes det ord som er vanlige for å vise leserekkefølge, og rekkefølgen er den samme i koden.</li>\r\n</ul>",
+	"kravTilSamsvar": "<ul><li>Skjemainstruksjon som viser til sensoriske egenskaper (form, størrelse, visuell plassering, orientering eller lyd), har også annen informasjon, som lar brukeren forstå og betjene komponenten eller</li><li>I skjemainstruksjon brukes det ord som er vanlige for å vise leserekkefølge, og rekkefølgen er den samme i koden.</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

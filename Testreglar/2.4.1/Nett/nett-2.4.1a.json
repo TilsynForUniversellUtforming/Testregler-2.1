@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>For nettsider som har blokker med innhold, som ligger før hovedinnholdet, og som blir gjentatt på flere sider, innenfor et sett med nettsider, er følgende oppfylt:</p>\r\n<ul>\r\n<li>Det er en mekanisme for å hoppe til hovedinnholdet eller slå sammen det gjentatte innholdet.</li>\r\n<li>Når mekanismen aktiveres, flyttes visuelt og funksjonelt fokus til hovedinnholdet.</li>\r\n<li>Mekanismen\r\n<ul>\r\n<li>ligger før blokken med gjentatt innhold og</li>\r\n<li>er blant de første fem tab-stegene og</li>\r\n<li>er alltid synlig eller blir det ved tastaturfokus</li>\r\n<li>dersom mekanismen er en snarveilenke, har den i tillegg en beskrivende tekst.</li>\r\n</ul>\r\n</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>For nettsider som har blokker med innhold, som ligger før hovedinnholdet, og som blir gjentatt på flere sider, innenfor et sett med nettsider, er følgende oppfylt:</p><ul><li>Det er en mekanisme for å hoppe til hovedinnholdet eller slå sammen det gjentatte innholdet.</li><li>Når mekanismen aktiveres, flyttes visuelt og funksjonelt fokus til hovedinnholdet.</li><li>Mekanismen<ul><li>ligger før blokken med gjentatt innhold og</li><li>er blant de første fem tab-stegene og</li><li>er alltid synlig eller blir det ved tastaturfokus</li><li>dersom mekanismen er en snarveilenke, har den i tillegg en beskrivende tekst.</li></ul></li></ul>",
 	"side": "2.1",
 	"element": "Side",
 	"steg": [

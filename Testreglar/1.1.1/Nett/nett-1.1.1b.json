@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>Informasjon om lenkemålet for et lenket bilde går frem av ett av følgende alternativer:</p>\r\n<ul>\r\n<li>Lenketeksten til bildet</li>\r\n<li>Tekstalternativet til bildet</li>\r\n<li>Lenketeksten kombinert med tekstalternativet til bildet</li>\r\n<li>Tittel-attributtet til bildet</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Informasjon om lenkemålet for et lenket bilde går frem av ett av følgende alternativer:</p><ul><li>Lenketeksten til bildet</li><li>Tekstalternativet til bildet</li><li>Lenketeksten kombinert med tekstalternativet til bildet</li><li>Tittel-attributtet til bildet</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

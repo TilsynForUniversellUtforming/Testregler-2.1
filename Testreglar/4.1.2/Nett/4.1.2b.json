@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>Knappar er kopla til ein ledetekst i koden. Dette kan gjerast på fleire måtar. Ledeteksten identifiserer funksjonen til knappen.</p>\r\n<p>Knappar som ikkje er koda med standardelementa i (X)HTML , skal ha informasjon om rolle.</p>",
+	"kravTilSamsvar": "<p>Knappar er kopla til ein ledetekst i koden. Dette kan gjerast på fleire måtar. Ledeteksten identifiserer funksjonen til knappen.</p><p>Knappar som ikkje er koda med standardelementa i (X)HTML , skal ha informasjon om rolle.</p>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

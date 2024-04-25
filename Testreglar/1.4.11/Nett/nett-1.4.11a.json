@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nb",
-	"kravTilSamsvar": "<p>Den visuelle presentasjonen har et kontrastforhold på minst 3:1 mot farge(r) som ligger ved siden av</p>\r\n<ul>\r\n<li>Visuell informasjon som kreves for å identifisere aktive brukergrensesnittkomponenter, samt hvordan de kan betjenes\r\n<ul>\r\n<li>Med mindre utseendet er bestemt av brukeragenten og ikke er endret av innholdsprodusenten</li>\r\n</ul>\r\n</li>\r\n</ul>",
+	"kravTilSamsvar": "<p>Den visuelle presentasjonen har et kontrastforhold på minst 3:1 mot farge(r) som ligger ved siden av</p><ul><li>Visuell informasjon som kreves for å identifisere aktive brukergrensesnittkomponenter, samt hvordan de kan betjenes<ul><li>Med mindre utseendet er bestemt av brukeragenten og ikke er endret av innholdsprodusenten</li></ul></li>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

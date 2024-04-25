@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nb",
-	"kravTilSamsvar": "<ul>\r\n<li>Appsiden har en gyldig språkkode og</li>\r\n<li>Språkkoden som er angitt stemmer med hovedspråket på den aktuelle appsiden</li>\r\n</ul>",
+	"kravTilSamsvar": "<ul><li>Appsiden har en gyldig språkkode og</li><li>Språkkoden som er angitt stemmer med hovedspråket på den aktuelle appsiden</li></ul>",
 	"side": "2.1",
 	"element": "Side",
 	"steg": [

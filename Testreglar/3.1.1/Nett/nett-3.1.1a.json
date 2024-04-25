@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<ul>\r\n<li>Nettsiden har en gyldig språkkode i HTML og</li>\r\n<li>Språkkoden som er angitt stemmer med hovedspråket på den aktuelle nettsiden</li>\r\n</ul>",
+	"kravTilSamsvar": "<ul><li>Nettsiden har en gyldig språkkode i HTML og</li><li>Språkkoden som er angitt stemmer med hovedspråket på den aktuelle nettsiden</li></ul>",
 	"side": "2.1",
 	"element": "Side",
 	"steg": [

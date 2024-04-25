@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "Nett",
 	"spraak": "nn",
-	"kravTilSamsvar": "<p>For alle skjemaelement der inndatafeil blir oppdaga automatisk, er følgande oppfylt:</p>\r\n<ul>\r\n<li>Brukaren får ei tekstleg feilmelding</li>\r\n<li>Feilmeldinga er koda som tekst</li>\r\n<li>Feilmeldinga identifiserer skjemaelementet der feilen oppstod</li>\r\n<li>Feilmeldinga beskriv feilen</li>\r\n</ul>\r\n<p>Med unntak for skjemaelement med sensitivt innhald, ligg informasjonen som er fylt inn framleis i skjemaelementet.</p>",
+	"kravTilSamsvar": "<p>For alle skjemaelement der inndatafeil blir oppdaga automatisk, er følgande oppfylt:</p><ul><li>Brukaren får ei tekstleg feilmelding</li><li>Feilmeldinga er koda som tekst</li><li>Feilmeldinga identifiserer skjemaelementet der feilen oppstod</li><li>Feilmeldinga beskriv feilen</li></ul><p>Med unntak for skjemaelement med sensitivt innhald, ligg informasjonen som er fylt inn framleis i skjemaelementet.</p>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [

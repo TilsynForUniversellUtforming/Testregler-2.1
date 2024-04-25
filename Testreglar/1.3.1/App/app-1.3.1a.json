@@ -5,7 +5,7 @@
 	"versjon": "1.0",
 	"type": "App",
 	"spraak": "nb",
-	"kravTilSamsvar": "<ul>\r\n<li>Visuelle overskrifter er korrekt kodet som overskrifter</li>\r\n<li>Visuelle overskrifter som inngår i et overskriftshierarki, er kodet med rett overskriftsnivå</li>\r\n</ul>",
+	"kravTilSamsvar": "<ul><li>Visuelle overskrifter er korrekt kodet som overskrifter</li><li>Visuelle overskrifter som inngår i et overskriftshierarki, er kodet med rett overskriftsnivå</li></ul>",
 	"side": "2.1",
 	"element": "3.1",
 	"steg": [
